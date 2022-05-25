@@ -1,0 +1,36 @@
+array a0-a14 {1, 3, 5, 4, 5, 9, 6, 1, 2, 6, 5, 4, 4, 9, 7}
+
+if aN > a(N+1)  -> counter++    -> var val1 = var a(N+1)    -> N = N + 1    -> if N = 14    -> if counter> 0    -> N = 0, counter = 0    :repeat
+                                -> var val2 = var aN        |                                                                            |
+                                -> var a(N+1) = var val2    |                                  else             ->        :stop          |
+                                -> var aN = var val1        |                                                                            |
+                                                            |                                                                            |
+else                            ->->->->->->->->->->->->->->|                  else         ->->->->->->->->->->->->->->->->->->->->->->-|
+
+                                                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

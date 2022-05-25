@@ -1,0 +1,13 @@
+-Input example (e)280-
+
+input/100 -> amount(e2)
+R(e0.8)/0.5 -> amount(e1) 
+R(e0.6)/0.4 -> amount(e1)
+R(e0.5)/0.5 -> amount(e1)
+
+
+
+
+
+
+
